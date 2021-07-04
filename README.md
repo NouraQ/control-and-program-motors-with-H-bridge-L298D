@@ -1,3 +1,4 @@
 # control-and-program-motors-with-H-bridge-L298D
 The purpose of this project is to design and program a circuit to move two motors using an H-bridge l298.
 First Bring a breadboard, an Arduino, a power supply, an H-bridge l298, and two hobby Gearmotors. After that, connect Output 1,2,3,4 with the motors by plugging the H-bridge l298 into the breadboard. Start connecting the H-bridge l298 to Arduino by plugging Enable 3&4 with 11 and Enable 1&2 with 10, as well as input3 with 13, input4 with 12, input2 with 8, and input1 with 9.Then in the breadboard, connect the Ground to the negative part and the Power to a positive part. Finally, about the power supply connect the negative with the negative part and the positive with the positive part in the breadboard.
+After finish connecting, I program the circuit to move the motors.
